@@ -6,4 +6,4 @@ My interests span frontend development, UI engineering, and crafting smooth user
 📍 Based in Mumbai, India
 
 Let's connect! Schedule a meeting at [cal.com/yashyadav](https://www.cal.com/yashyadav)  
-Explore my articles at [yyash.hashnode.dev](https://yyash.hashnode.dev/)
+Check out my blog posts at [yyash.hashnode.dev](https://yyash.hashnode.dev/)
